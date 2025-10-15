@@ -11,7 +11,7 @@ Additionally, it introduces a **Local Events & Announcements system** using **cu
 ---
 
 ## 📺 **YouTube Video**
-
+https://youtu.be/2r2U4O1GJDo
 
 ---
 
