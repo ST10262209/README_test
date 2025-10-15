@@ -15,6 +15,12 @@ https://youtu.be/2r2U4O1GJDo
 
 ---
 
+## 📺 **Admin Login Details**
+* Username: **admin**
+* Password: **EB10#**
+
+---
+
 ## 🚀 **Features**
 
 ### **Issue Reporting & Management**
