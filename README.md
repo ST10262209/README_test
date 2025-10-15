@@ -56,8 +56,8 @@ Additionally, it introduces a **Local Events & Announcements system** using **cu
 ### **Clone the repository**
 
 ```bash
-git clone https://github.com/VCWVL/prog7312-part-1-ST10262209.git
-cd prog7312-part-1-ST10262209
+git clone https://github.com/VCWVL/prog7312-part-2-ST10262209.git
+cd prog7312-part-2-ST10262209
 ```
 
 ### **Open the solution**
