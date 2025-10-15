@@ -86,6 +86,7 @@ cd prog7312-part-1-ST10262209
   * View all submitted issues
   * Track achievements & progress
   * Access **Local Events & Announcements**
+  * Submit new events to be approved
 
 ---
 
