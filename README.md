@@ -166,6 +166,7 @@ cd prog7312-poe-ST10262209.git
   * Track achievements & progress
   * Access **Local Events & Announcements**
   * Submit new events to be approved
+  * Access **Service Request Status**
 
 ---
 
