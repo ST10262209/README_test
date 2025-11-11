@@ -13,7 +13,7 @@ The latest update (Task 3) further expands the system with a **Service Request S
 ---
 
 ## 📺 **YouTube Video**
-https://youtu.be/2r2U4O1GJDo
+
 
 ---
 
@@ -99,6 +99,9 @@ The final part of the POE introduces a **service request tracking system**, buil
 * **Two-Column Optimised Layout**  
   The DataGrid appears on the left, while the **Urgent Request card** and **Department Route card** are displayed on the right for improved visibility.
 
+* **Submit New Service Request**
+  A dedicated Submit Service Request page allows users to create new requests by entering Location, Category, and Description.
+
 #### **Data Structures Used**
 
 **Binary Search Tree (BST)**  
@@ -132,8 +135,8 @@ Used to calculate and visualise the department route a request takes.
 ### **Clone the repository**
 
 ```bash
-git clone https://github.com/VCWVL/prog7312-part-2-ST10262209.git
-cd prog7312-part-2-ST10262209
+git clone https://github.com/VCWVL/prog7312-poe-ST10262209.git
+cd prog7312-poe-ST10262209.git
 ```
 
 ### **Open the solution**
