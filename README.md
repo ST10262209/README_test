@@ -1,5 +1,18 @@
 # **Municipal Services Application**
 
+## 📚 **Table of Contents**
+
+- [📌 Overview](#-overview)
+- [📺 YouTube Video](#-youtube-video)
+- [🔒 Admin Login Details](#-admin-login-details)
+- [📝 Changelog](#-changelog)
+- [🚀 Features](#-features)
+- [🛠️ Requirements](#-requirements)
+- [⚙️ Installation & Setup](#-installation--setup)
+- [▶️ Running the Application](#️-running-the-application)
+- [📖 Usage Guide](#-usage-guide)
+- [👨‍💻 Author](#-author)
+
 ## 📌 **Overview**
 
 The **Municipal Services Application** is a **WPF application** built with **.NET 9.0** in Visual Studio.
@@ -22,6 +35,7 @@ The latest update (Task 3) further expands the system with a **Service Request S
 * Password: **EB10#**
 
 ---
+
 ## 📝 **Changelog**
 
 ###  **Changelog according to Part 1 Feedback**
@@ -50,6 +64,9 @@ The latest update (Task 3) further expands the system with a **Service Request S
 *Improved UI consistency with rounded buttons and modern styling.
 
   
+---
+
+
 ---
 
 ## 🚀 **Features**
